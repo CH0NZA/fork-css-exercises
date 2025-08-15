@@ -1,0 +1,1 @@
+I completed the assignment correctly, but there is a difference that I made. It isn't crucial, but I rewrote the same declaration over two selectors rather than combining them. It isn't the end of the world, but it bloats the project. I will try to keep an eye out for this mistake. 
